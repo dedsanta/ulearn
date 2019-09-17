@@ -1,0 +1,6 @@
+C:\skb\lession 1 Hello world\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\skb\lession 1 Hello world\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\skb\lession 1 Hello world\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\skb\lession 1 Hello world\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\skb\lession 1 Hello world\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\skb\lession 1 Hello world\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
