@@ -28,8 +28,6 @@ Console.WriteLine(letters);
                 }
                 public static string[] GetAllStudents(Classroom[] classes)
                 {
-                    
-                   
                     return classes.SelectMany(w => w.Students).ToArray(); 
                 }
             }
